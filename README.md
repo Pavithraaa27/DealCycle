@@ -92,7 +92,7 @@ DB_URI=your_database_url
 
 <img width="1568" height="854" alt="Screenshot 2026-04-27 222514" src="https://github.com/user-attachments/assets/09632b73-7132-4522-9003-c9659765fdba" />
 
-<img width="1621" height="852" alt="Screenshot 2026-04-27 222621" src="https://github.com/user-attachments/assets/bb84aab3-d355-4287-b4e9-d0e21ab789c1" />
+<img width="1159" height="481" alt="Screenshot 2026-04-27 222924" src="https://github.com/user-attachments/assets/52940544-654f-418f-83b7-507cb661e7d6" />
 
 <img width="1516" height="621" alt="image" src="https://github.com/user-attachments/assets/90f02cbc-6d92-4902-b793-49c96f267c82" />
 
