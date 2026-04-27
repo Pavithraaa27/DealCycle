@@ -62,7 +62,7 @@ DealCycle/
 ## ⚙️ Setup Instructions
 
 ### 1. Clone the repository
-git clone https://github.com/your-username/dealcycle.git
+git clone https://github.com/Pavithraaa27/dealcycle.git
 cd dealcycle
 
 ### 2. Backend Setup
@@ -88,7 +88,8 @@ DB_URI=your_database_url
 
 ## 📸 Screenshots
 
-(Add screenshots of your UI here)
+<img width="1516" height="621" alt="image" src="https://github.com/user-attachments/assets/90f02cbc-6d92-4902-b793-49c96f267c82" />
+
 
 ---
 
