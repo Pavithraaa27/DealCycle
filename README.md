@@ -88,7 +88,15 @@ DB_URI=your_database_url
 
 ## 📸 Screenshots
 
+<img width="1882" height="837" alt="Screenshot 2026-04-27 222451" src="https://github.com/user-attachments/assets/ffe8daf2-3f55-4d0a-92fa-a454ca00557a" />
+
+<img width="1568" height="854" alt="Screenshot 2026-04-27 222514" src="https://github.com/user-attachments/assets/09632b73-7132-4522-9003-c9659765fdba" />
+
+<img width="1621" height="852" alt="Screenshot 2026-04-27 222621" src="https://github.com/user-attachments/assets/bb84aab3-d355-4287-b4e9-d0e21ab789c1" />
+
 <img width="1516" height="621" alt="image" src="https://github.com/user-attachments/assets/90f02cbc-6d92-4902-b793-49c96f267c82" />
+
+<img width="1829" height="727" alt="Screenshot 2026-04-27 222534" src="https://github.com/user-attachments/assets/c670f488-f5d2-4fb9-93b2-86c254941712" />
 
 
 ---
