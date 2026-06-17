@@ -1,4 +1,4 @@
-# 🛍️ DealCycle  Ecommr
+# 🛍️ DealCycle  Ecommerce
 ### Buy • Sell • Repeat
 
 DealCycle is a web-based platform designed for buying and selling second-hand items in a simple, affordable, and sustainable way. It provides users with an easy interface to explore products across categories like fashion, electronics, furniture, and more.
